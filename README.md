@@ -1,15 +1,12 @@
 <div align="center">
 
-# ✨ ¡Hola, soy Aurora! ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&colorStart=E0C3FC&colorEnd=B8D7E3&height=180&section=header&text=Data%20Engineer%20%26%20Cloud%20Dev&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&colorStart=E0C3FC&colorEnd=F4D1D1&height=220&section=header&text=Aurora%20Fernández&fontSize=50&fontColor=ffffff" alt="Banner de Aurora Fernández" />
 
 ---
 
 ### 🌸 Sobre mí
 **Técnico de Sistemas** en evolución constante hacia la **Ingeniería de Datos y Cloud**.
-
-Me encanta convertir datos complejos en soluciones útiles y eficientes. 
+Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻📈
 
 ---
 
@@ -18,17 +15,17 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes.
 
 <img src="https://img.shields.io/badge/Python-B8D7E3?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-E0C3FC?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-B8D7E3?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-F4D1D1?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F4D1D1?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-B8D7E3?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Big_Data-E0C3FC?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sage_ERP-B8D7E3?style=for-the-badge&logo=sage&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sage_ERP-F4D1D1?style=for-the-badge&logo=sage&logoColor=white"/>
 
 ---
 
 ### 🫧 En qué estoy trabajando
-* ☁️ **Cloud Projects:** Optimizando arquitecturas escalables.
-* 📊 **Data Engineering:** Creando pipelines de datos robustos.
-* 🛠️ **Systems Admin:** Aplicando mis conocimientos de sistemas a entornos modernos.
+* ☁️ **Proyectos Cloud:** Desplegando y optimizando arquitecturas en la nube.
+* 📊 **Ingeniería de Datos:** Creando pipelines de datos eficientes.
+* 🛠️ **Sistemas:** Aplicando mi experiencia para asegurar robustez.
 
 ---
 
@@ -45,6 +42,6 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes.
 <br><br>
 
 ---
-<sub>*Hecho con mucho amor por Aurora*</sub>
+<sub>*Diseñado con cariño para el perfil de Aurora*</sub>
 
 </div>
