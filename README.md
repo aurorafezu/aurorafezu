@@ -8,6 +8,7 @@
 
 ### 🌸 Sobre mí
 **Técnico de Sistemas** en evolución constante hacia la **Ingeniería de Datos y Cloud**.
+
 Me encanta convertir datos complejos en soluciones útiles y eficientes. 
 
 ---
