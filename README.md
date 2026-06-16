@@ -42,6 +42,3 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻�
 <br><br>
 
 ---
-<sub>*Diseñado con cariño para el perfil de Aurora*</sub>
-
-</div>
