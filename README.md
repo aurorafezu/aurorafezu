@@ -29,7 +29,7 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻�
 
 ---
 
-### 💖 ¡Hablemos!
+###  ¡Hablemos!
 <br>
 
 <a href="https://www.linkedin.com/in/aurora-fern%C3%A1ndez-951212162/" target="_blank">
