@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=25&text=Aurora%20Fernández&fontSize=55&fontColor=ffffff"/>
 
-### ☁️ Data Engineering • Cloud • Systems
+### ☁️ Sistemas • Redes • Linux
 
-**ASIR Graduate**
+**ASIR Student / Graduate**
 
 </div>
 
@@ -12,30 +12,29 @@
 
 ## 👋 About Me
 
-Hi, I'm **Aurora Fernández**, an ASIR graduate.
+Hi, I'm **Aurora Fernández**.
 
-I have experience in systems administration, networks and Linux environments.
+I have studied ASIR, with experience in systems administration, computer networks and Linux environments.
 
-Currently, I am focusing on improving my skills in data processing, automation and cloud-related technologies.
+I am currently continuing my learning and improving my technical skills through practice and personal study.
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,linux,bash,git,github"/>
+
+<img src="https://skillicons.dev/icons?i=linux,bash"/>
+
 </p>
 
 ---
 
-## 🗄️ Databases & Data
+## 📄 Data & Formats
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
 <img src="https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 
 </p>
@@ -44,10 +43,10 @@ Currently, I am focusing on improving my skills in data processing, automation a
 
 ## 🌱 Currently Learning
 
-- Data processing fundamentals  
-- Automation with Python and Bash  
 - Linux system administration  
-- Basics of cloud computing  
+- Basic scripting with Bash  
+- Computer networks  
+- IT systems fundamentals  
 
 ---
 
@@ -55,12 +54,8 @@ Currently, I am focusing on improving my skills in data processing, automation a
 
 <p align="center">
 
-<a href="mailto:aurorafezu@gmail.com">
+<a href="mailto:tuemail@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aurora-fernández-951212162/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -69,6 +64,6 @@ Currently, I am focusing on improving my skills in data processing, automation a
 
 <div align="center">
 
-⭐ Always learning, always improving
+⭐ Learning step by step
 
 </div>
