@@ -75,7 +75,7 @@ Durante mis estudios de ASIR he trabajado con:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,windows"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,html,windows"/>
 
 </p>
 
@@ -85,6 +85,7 @@ Durante mis estudios de ASIR he trabajado con:
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSV-A8DADC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JSON-F1FAEE?style=for-the-badge&logo=json&logoColor=black"/>
 <img src="https://img.shields.io/badge/XML-FFD6A5?style=for-the-badge"/>
