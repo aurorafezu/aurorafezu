@@ -12,17 +12,70 @@
 
 Hi, I'm **Aurora Fernández**, an ASIR graduate.
 
-I am currently a **Cloud and Data Engineering student**, focused on learning how systems, data and cloud technologies work together.
+I have studied systems administration and I am currently a **Cloud and Data Engineering student**, focused on understanding how systems, networks and data technologies work together.
 
-I enjoy understanding how systems work, learning step by step, and improving my technical skills through practice.
+I enjoy learning step by step, solving technical problems and improving my skills through practice.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 ASIR Knowledge
+
+Durante mis estudios de ASIR he trabajado con:
+
+### 🐧 Sistemas Operativos
+- Linux (Ubuntu, Debian)
+- Windows Server
+- Gestión de usuarios y permisos
+- Procesos y servicios
+- Automatización básica
+
+### 🌐 Redes
+- Direcciones IP y subredes
+- DNS y DHCP
+- Protocolos (HTTP, FTP, SSH)
+- Configuración de redes locales
+- VLANs (conceptos)
+
+### 🗄️ Bases de Datos
+- SQL
+- MySQL / MariaDB / PostgreSQL
+- Consultas (SELECT, JOIN, etc.)
+- Diseño de bases de datos
+
+### 🧑‍💻 Servicios en Red
+- Servidores web (Apache / Nginx)
+- FTP
+- SSH
+- DNS
+- Active Directory (Windows Server)
+
+### 🔐 Seguridad Informática
+- Copias de seguridad
+- Firewalls
+- Permisos y accesos
+- Seguridad básica en sistemas
+
+### ⚙️ Scripting y Automatización
+- Bash (Linux)
+- PowerShell (Windows)
+- Scripts básicos de automatización
+- Python básico (según prácticas)
+
+### 🧰 Virtualización
+- VirtualBox
+- VMware
+
+### ☁️ Introducción a Cloud / Contenedores
+- Conceptos básicos de cloud computing
+- Introducción a Docker
+
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,windows"/>
 
 </p>
 
@@ -34,6 +87,7 @@ I enjoy understanding how systems work, learning step by step, and improving my 
 
 <img src="https://img.shields.io/badge/CSV-A8DADC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JSON-F1FAEE?style=for-the-badge&logo=json&logoColor=black"/>
+<img src="https://img.shields.io/badge/XML-FFD6A5?style=for-the-badge"/>
 
 </p>
 
@@ -41,10 +95,11 @@ I enjoy understanding how systems work, learning step by step, and improving my 
 
 ## 🌱 Currently Learning
 
+- Cloud computing fundamentals  
+- Data processing concepts  
 - Linux system administration  
 - Bash scripting  
-- Basics of cloud computing  
-- Data and systems fundamentals  
+- Introduction to Docker  
 
 ---
 
@@ -70,6 +125,6 @@ I enjoy understanding how systems work, learning step by step, and improving my 
 
 <div align="center">
 
-💫 *Learning Cloud & Data step by step*
+💫 *Learning step by step in Systems, Cloud and Data*
 
 </div>
