@@ -1,15 +1,21 @@
 ```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=25&text=Aurora%20Fernández&fontSize=60&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=25&text=Aurora%20Fernández&fontSize=60&fontColor=ffffff"/>
 
 <h1>☁️ Data Engineering • Cloud • Systems</h1>
 
 <p>
-<strong>ASIR Graduate</strong> • <strong>Data Engineering Student</strong> • <strong>Cloud Enthusiast</strong>
+<b>ASIR Graduate</b> • <b>Data Engineering Student</b> • <b>Cloud Enthusiast</b>
 </p>
 
-<p><i>Building scalable infrastructure, automating systems and transforming data into meaningful solutions.</i></p>
+<p>
+Building scalable infrastructures, automating systems and transforming data into reliable solutions.
+</p>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=7F7FD5&center=true&vCenter=true&width=650&lines=Data+Engineering;Cloud+Computing;Linux+Administration;Python+Developer;Always+Learning+🚀"/>
 
 </div>
 
@@ -17,46 +23,71 @@
 
 # 👋 About Me
 
-Hi! I'm **Aurora Fernández**, an **ASIR graduate** currently specializing in **Data Engineering** and **Cloud Computing**.
+Hi! I'm **Aurora Fernández**.
 
-I'm passionate about building reliable infrastructures, developing efficient data pipelines and automating processes through modern technologies.
+🎓 ASIR Graduate with a strong foundation in Systems Administration and Networking.
 
-I enjoy learning, solving technical challenges and continuously improving my skills in cloud platforms, data engineering and systems administration.
+📚 Currently specializing in **Data Engineering** and **Cloud Computing**, where I'm expanding my skills in scalable architectures, data pipelines and cloud services.
+
+I enjoy solving technical challenges, automating infrastructure and building efficient, reliable solutions.
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,bash,html,css"/>
 </p>
 
-### 🗄️ Databases & Data
+---
+
+## 🐧 Systems & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github"/>
+</p>
+
+---
+
+## ☁️ Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,aws"/>
+</p>
+
+---
+
+## 📊 Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
 
-<img src="https://img.shields.io/badge/Apache%20Spark-F28C28?style=for-the-badge&logo=apachespark&logoColor=white"/>
+---
+
+## 📈 Data Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Apache_Spark-F28C28?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge"/>
+
 </p>
 
-### ☁️ Cloud & DevOps
+---
+
+## 📚 Currently Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github"/>
-</p>
-
-### 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
@@ -66,98 +97,90 @@ I enjoy learning, solving technical challenges and continuously improving my ski
 
 ---
 
-# 🌱 What I'm Working On
+# 🌱 What I'm Currently Working On
 
-- ☁️ Designing cloud-based solutions
-- 📊 Building ETL & Data Pipelines
-- 🐳 Containerizing applications with Docker
-- 🐧 Linux server administration
-- ⚙️ Infrastructure automation
-- 📈 SQL optimization and database design
+- ☁️ Cloud Infrastructure
+- 📊 ETL Pipelines
+- 🐍 Python Automation
+- 🐳 Docker Deployments
+- 🐧 Linux Administration
+- 📈 SQL Optimization
 
 ---
 
 # 📂 Featured Projects
 
-### 📊 Data Engineering
-
-🔹 ETL Pipelines with Python & SQL
-
-🔹 Data Cleaning & Processing
-
-🔹 Apache Spark Projects
-
 ### ☁️ Cloud
 
-🔹 Cloud Deployments
+- Azure Deployments
+- Docker Projects
+- Infrastructure Automation
 
-🔹 Dockerized Applications
+### 📊 Data Engineering
 
-🔹 Infrastructure as Code
+- ETL Pipelines
+- SQL Projects
+- Apache Spark
 
 ### 🐧 Systems
 
-🔹 Linux Automation Scripts
-
-🔹 Bash Utilities
-
-🔹 Monitoring & Administration
+- Linux Scripts
+- Bash Automation
+- Server Administration
 
 ---
 
 # 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&column=4"/>
 
-</div>
+</p>
 
 ---
 
 # 🐍 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg"/>
 
-</div>
+</p>
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Master Cloud Computing fundamentals
-- ✅ Build production-ready Data Engineering projects
-- ✅ Learn Kubernetes & Terraform
-- ✅ Contribute to Open Source
-- ✅ Continue growing as a Cloud & Data Engineer
+- Build production-ready data pipelines
+- Improve cloud architecture skills
+- Learn Kubernetes & Terraform
+- Contribute to Open Source
+- Keep growing as a Data Engineer & Cloud Engineer
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/aurora-fern%C3%A1ndez-951212162/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -167,15 +190,15 @@ I enjoy learning, solving technical challenges and continuously improving my ski
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my GitHub!
 
-*"Learning never stops, and neither does curiosity."*
+*"Learning, building and improving every day."*
 
 </div>
 ```
