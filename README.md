@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=25,27,28&text=Aurora%20Fernández&fontSize=55&fontColor=ffffff"/>
 
-### ☁️ ASIR Graduate • Cloud & Data Engineering Student
+### ASIR Graduate • Cloud & Data Engineering Student
 
 </div>
 
 ---
 
-## 💗 About Me
+## About Me
 
 Hi, I'm **Aurora Fernández**, an ASIR graduate.
 
@@ -18,7 +18,7 @@ I enjoy learning step by step, solving technical problems and improving my skill
 
 ---
 
-## 🧠 ASIR Knowledge
+## ASIR Knowledge
 
 Durante mis estudios de ASIR he trabajado con:
 
