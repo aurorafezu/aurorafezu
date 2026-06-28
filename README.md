@@ -1,13 +1,10 @@
-```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=25&text=Aurora%20Fernández&fontSize=60&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=25&text=Aurora%20Fernández&fontSize=55&fontColor=ffffff"/>
 
-<h2>☁️ Data Engineering • Cloud • Systems</h2>
+### ☁️ Data Engineer • Cloud Computing • Systems
 
-<p>
-ASIR Graduate · Data Engineering Student · Cloud Enthusiast
-</p>
+**ASIR Graduate | Data Engineering Student | Cloud Enthusiast**
 
 </div>
 
@@ -15,55 +12,49 @@ ASIR Graduate · Data Engineering Student · Cloud Enthusiast
 
 ## 👋 About Me
 
-Hi! I'm **Aurora Fernández**.
+Hi, I'm **Aurora Fernández**, an ASIR graduate currently specializing in **Data Engineering** and **Cloud Computing**.
 
-🎓 ASIR graduate with a strong background in Systems Administration and Networking.
+I have a strong foundation in systems administration, networking and Linux environments, and I am currently focused on building scalable data pipelines and cloud-based solutions.
 
-Currently specializing in **Data Engineering** and **Cloud Computing**, with a focus on building scalable infrastructures, automating processes and developing efficient data solutions.
-
-I enjoy learning new technologies, solving technical challenges and creating projects that combine systems, cloud and data.
+I enjoy working with data, automating processes and learning technologies related to cloud infrastructure and distributed systems.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Programming
-
+### 💻 Programming & Scripting
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,bash,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,bash"/>
 </p>
 
 ### 🐧 Systems & DevOps
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github"/>
 </p>
 
 ### ☁️ Cloud
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=azure,aws"/>
 </p>
 
 ### 🗄️ Databases
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 </p>
 
-### 📊 Data Engineering
+---
+
+## 📊 Data Engineering Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Apache%20Spark-F28C28?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-F28C28?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSV-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/XML-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 
 </p>
 
@@ -71,22 +62,20 @@ I enjoy learning new technologies, solving technical challenges and creating pro
 
 ## 🌱 Currently Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes,terraform"/>
-</p>
+- Cloud Architecture (Azure / AWS)
+- Kubernetes
+- Terraform
+- Advanced Data Engineering Pipelines
+- System Automation with Linux & Python
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 📊 ETL Pipeline | Python + SQL + PostgreSQL |
-| ☁️ Cloud Deployment | Docker + Azure |
-| 🐧 Linux Automation | Bash Scripts |
-| 📈 Data Analysis | SQL + CSV |
-
-> Replace these with links to your own repositories.
+- 📊 ETL Pipeline (Python + SQL + PostgreSQL)
+- ☁️ Cloud Deployment (Docker + Azure/AWS)
+- 🐧 Linux Automation Scripts (Bash)
+- 📈 Data Analysis & Processing Projects
 
 ---
 
@@ -94,24 +83,24 @@ I enjoy learning new technologies, solving technical challenges and creating pro
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect with Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aurora-fern%C3%A1ndez-951212162/">
+<a href="https://www.linkedin.com/in/aurora-fernández-951212162/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aurorafezu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -120,7 +109,6 @@ I enjoy learning new technologies, solving technical challenges and creating pro
 
 <div align="center">
 
-*"Always learning. Always building."* 🚀
+### ⭐ Always learning. Always building.
 
 </div>
-```
