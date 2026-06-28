@@ -2,23 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=25,27,28&text=Aurora%20Fernández&fontSize=55&fontColor=ffffff"/>
 
-### ASIR Graduate • Cloud & Data Engineering Student
+### ☁️ ASIR Graduate • Cloud & Data Engineering Student
 
 </div>
 
 ---
 
-## About Me
+## 💗 About Me
 
 Hi, I'm **Aurora Fernández**, an ASIR graduate.
 
-I have studied systems administration and I am currently a **Cloud and Data Engineering student**, focused on understanding how systems, networks and data technologies work together.
+I have studied systems administration and networking, and I am currently a **Cloud and Data Engineering student**, focused on understanding how systems, data and cloud technologies work together.
 
 I enjoy learning step by step, solving technical problems and improving my skills through practice.
 
 ---
 
-## ASIR Knowledge
+## 🧠 ASIR Knowledge
 
 Durante mis estudios de ASIR he trabajado con:
 
@@ -34,13 +34,24 @@ Durante mis estudios de ASIR he trabajado con:
 - DNS y DHCP
 - Protocolos (HTTP, FTP, SSH)
 - Configuración de redes locales
-- VLANs (conceptos)
+- Conceptos de VLAN
 
-### 🗄️ Bases de Datos
+### 🗄️ Bases de Datos (SQL)
 - SQL
 - MySQL / MariaDB / PostgreSQL
-- Consultas (SELECT, JOIN, etc.)
-- Diseño de bases de datos
+- Consultas (SELECT, JOIN, WHERE, GROUP BY)
+- Diseño de bases de datos relacionales
+
+### 💻 Desarrollo básico (HTML)
+- HTML básico
+- Estructura de páginas web
+- Etiquetas básicas
+- Introducción a servidores web
+
+### ☕ Programación básica (Java)
+- Java básico
+- Lógica de programación
+- Estructuras simples
 
 ### 🧑‍💻 Servicios en Red
 - Servidores web (Apache / Nginx)
@@ -75,13 +86,13 @@ Durante mis estudios de ASIR he trabajado con:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,html,windows"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,html,java,windows"/>
 
 </p>
 
 ---
 
-## 💾 Data Formats
+## 💾 Data Formats & Databases
 
 <p align="center">
 
@@ -126,6 +137,6 @@ Durante mis estudios de ASIR he trabajado con:
 
 <div align="center">
 
-💫 *Learning step by step in Systems, Cloud and Data*
+💫 *Learning step by step in Systems, Networks and Data*
 
 </div>
