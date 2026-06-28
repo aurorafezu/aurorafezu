@@ -28,7 +28,7 @@ I enjoy understanding how systems work, learning step by step, and improving my 
 
 ---
 
-## 💾 Databases & Data Formats
+## 💾 Data Formats
 
 <p align="center">
 
@@ -48,7 +48,7 @@ I enjoy understanding how systems work, learning step by step, and improving my 
 
 ---
 
-## 💌 Contact Me
+## 💌 Contact
 
 <p align="center">
 
