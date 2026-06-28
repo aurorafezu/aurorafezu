@@ -4,7 +4,7 @@
 
 ### ☁️ Data Engineer • Cloud Computing • Systems
 
-**ASIR Graduate | Data Engineering Student | Cloud Enthusiast**
+**ASIR Graduate | Cloud & Data Engineering Student**
 
 </div>
 
@@ -12,11 +12,9 @@
 
 ## 👋 About Me
 
-Hi, I'm **Aurora Fernández**, an ASIR graduate currently specializing in **Data Engineering** and **Cloud Computing**.
+Hi, I'm Aurora Fernández, an ASIR graduate focused on Data Engineering and Cloud Computing.
 
-I have a strong foundation in systems administration, networking and Linux environments, and I am currently focused on building scalable data pipelines and cloud-based solutions.
-
-I enjoy working with data, automating processes and learning technologies related to cloud infrastructure and distributed systems.
+I'm interested in building scalable systems, working with data and automating processes in cloud environments.
 
 ---
 
